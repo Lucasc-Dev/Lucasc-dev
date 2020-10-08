@@ -24,10 +24,12 @@
   💻 Programming languages and technologies:
 </h3>
 
+
 <p>
 
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Lucasc-Dev&show_icons=true&hide_border=true" />
 
+  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
@@ -39,5 +41,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasc-dev&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/Lucasc-Dev/github-readme-stats)
 
 </p>
