@@ -4,7 +4,7 @@
 
 <p>
 
-  * I'm Lucas and I'm a FullStack Developer. Currently working with NodeJS and the React Stack, using Javascript and Typescript.
+  * My name is Lucas and I'm a FullStack Developer. Currently working with NodeJS and the React Stack, using Javascript and Typescript.
 </p>
 
 <h3>
@@ -44,4 +44,13 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasc-dev&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/Lucasc-Dev/github-readme-stats)
 
+</p>
+
+<h3 align="center">
+  Connect with me:
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-c-888b7a1b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  alt="Lucas Linkedin" height="30" width="30" /></a> &nbsp;&nbsp;
+  <a href="https://github.com/Lucasc-Dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Lucasc-Dev"      height="30" width="30" /></a> &nbsp;&nbsp;
 </p>
