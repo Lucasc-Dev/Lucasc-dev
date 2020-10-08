@@ -42,9 +42,9 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasc-dev&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/Lucasc-Dev/github-readme-stats)
-
 </p>
+
+<br />
 
 <h3 align="center">
   Connect with me:
