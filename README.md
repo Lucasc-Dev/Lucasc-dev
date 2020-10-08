@@ -24,11 +24,10 @@
   💻 Programming languages and technologies:
 </h3>
 
-
 <p>
 
-  <img width="60%" align="right" src="https://github-readme-stats.vercel.app/api?username=Lucasc-Dev&show_icons=true&hide_border=true" />
-
+  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasc-dev&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true" />
+  
   <br />
   <code><img width="11%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="11%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
