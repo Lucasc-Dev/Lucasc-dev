@@ -8,7 +8,7 @@
 </p>
 
 <h3>
-  🔭 Currently working on:
+  🛠 Currently working on:
 </h3>
 
 <p>
@@ -50,6 +50,7 @@
 </h3>
 
 <p align="center">
+  <a href="https://discord.com/users/313151537298014209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg"  alt="Lucas Discord" height="30" width="30" /></a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lucas-c-888b7a1b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  alt="Lucas Linkedin" height="30" width="30" /></a> &nbsp;&nbsp;
   <a href="https://github.com/Lucasc-Dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Lucasc-Dev"      height="30" width="30" /></a> &nbsp;&nbsp;
 </p>
