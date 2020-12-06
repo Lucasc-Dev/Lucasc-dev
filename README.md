@@ -13,11 +13,11 @@
 
 <p>
 
-  * 🚗 Currently working on RentalX Application. RentalX is a React Native mobile application of a fictional vehicle rental company. Here you can check the 
+  * 🚗 Currently working on RentalX Application. RentalX is a React Native mobile application of a fictional vehicle rental company. You can check the 
   <a href="https://github.com/Lucasc-Dev/RentX-server">Backend</a> 
   and 
   <a href="https://github.com/Lucasc-Dev/RentX-mobile">Mobile</a> 
-  repository! You can also get the app on 
+  repository.<br/> You can also get the app on 
   <a href="https://play.google.com/store/apps/details?id=com.rentx">Google Play Store</a>!
 </p>
 
