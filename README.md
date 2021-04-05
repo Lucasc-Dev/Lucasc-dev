@@ -15,7 +15,7 @@
   
   * 👩‍⚕️ Currently working on Virtual Clinic. Virtual Clinic is a web platform of telemedicine, where the pacients can find a doctor and do an appointment safe at home. You can   check <a href="https://github.com/Lucasc-Dev/Online-Schedulement-Platform">backend</a> repository! <br/>
   
-  * 🔗 Working on TraderHistory. TraderHistory is an application for the rocket league traders, it helps you to register your trades 
+  * 🔗 Working on TraderHistory. TraderHistory is an application for the rocketleague traders. TraderHistory helps you to register your history of trades, and have a better control of it. You can check its repository <a href="https://github.com/Lucasc-Dev/TradesManager">here</a>.
   
   * 🚗 My last project was RentalX. RentalX is a React Native mobile application of a fictional vehicle rental company. You can check the 
   <a href="https://github.com/Lucasc-Dev/RentX-server">Backend</a> 
