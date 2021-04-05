@@ -18,9 +18,9 @@
   * 🔗 Working on TraderHistory. TraderHistory is an application for the rocketleague traders. TraderHistory helps you to register your history of trades, and have a better control of it. You can check its repository <a href="https://github.com/Lucasc-Dev/TradesManager">here</a>.
   
   * 🚗 My last project was RentalX. RentalX is a React Native mobile application of a fictional vehicle rental company. You can check the 
-  <a href="https://github.com/Lucasc-Dev/RentX-server">Backend</a> 
+  <a href="https://github.com/Lucasc-Dev/RentalX-server">Backend</a> 
   and 
-  <a href="https://github.com/Lucasc-Dev/RentX-mobile">Mobile</a> 
+  <a href="https://github.com/Lucasc-Dev/RentalX-mobile">Mobile</a> 
   repository.<br/> You can also get the app on 
   <a href="https://play.google.com/store/apps/details?id=com.rentx">Google Play Store</a>!
 </p>
