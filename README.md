@@ -4,7 +4,7 @@
 
 <p>
   
-  * My name is Lucas and I'm a FullStack Developer. Currently working with NodeJS and the React Stack, using Javascript and Typescript.
+  * I'm Lucas César and I'm a Java, Javascript and Typescript Developer. Currently working with NodeJS and the React Stack, using Javascript and Typescript.
 </p>
 
 <h3>
@@ -13,16 +13,16 @@
 
 <p>
   
-  * 👩‍⚕️ Currently working on Virtual Clinic. Virtual Clinic is a web platform of telemedicine, where the pacients can find a doctor and do an appointment safe at home. You can   check <a href="https://github.com/Lucasc-Dev/Online-Schedulement-Platform">backend</a> repository! <br/>
+  * 👩‍⚕️ Working on Virtual Clinic. Virtual Clinic is a platform of medical clinic management and telemedicine, where a doctor can manage his medical clinic and can be found by pacients who want to make an appointment at home via telemedicine. You can check its repository <a href="https://github.com/Lucasc-Dev/Online-Schedulement-Platform">here</a>. <br/>
   
-  * 🔗 Working on TraderHistory. TraderHistory is an application for the rocketleague traders. TraderHistory helps you to register your history of trades, and have a better control of it. You can check its repository <a href="https://github.com/Lucasc-Dev/TradesManager">here</a>.
+  * 🔗 Working on TraderHistory, an application for the rocketleague traders. TraderHistory helps you to register your history of trades, and have a better control of it. You can check its repository <a href="https://github.com/Lucasc-Dev/TradesManager">here</a>.
   
-  * 🚗 My last project was RentalX. RentalX is a React Native mobile application of a fictional vehicle rental company. You can check the 
+  * 🚗 My last portfolio project was RentalX. RentalX is a React Native mobile application of a fictional vehicle rental company. You can check the 
   <a href="https://github.com/Lucasc-Dev/RentalX-server">Backend</a> 
   and 
   <a href="https://github.com/Lucasc-Dev/RentalX-mobile">Mobile</a> 
-  repository.<br/> You can also get the app on 
-  <a href="https://play.google.com/store/apps/details?id=com.rentx">Google Play Store</a>!
+  repository.<br/> You can also download the app on 
+  <a href="https://play.google.com/store/apps/details?id=com.rentx">Google Play Store</a>.
 </p>
 
 <h3>
