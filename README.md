@@ -1,10 +1,13 @@
 <h2>
-  👋 Hello There!
+  👋 A little bit about me
 </h2
 
 <p>
   
-  * Hi! I'm Lucas César, I'm a FullStack Developer, focused on developing mobile projects. Currently working with NodeJS and React Stack, Javascript and Typescript. Always learning something new.
+  * Hi there, I'm Lucas!
+  * Fullstack Software Developer at Banco Bmg | ACT Digital. 
+  * Passionate about games, programming, hardware, and tech in general. 
+  * Always learning something new.
 </p>
 
 <h3>
