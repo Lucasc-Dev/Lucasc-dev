@@ -1,25 +1,22 @@
 <h2>
-  👋 A little bit about me
+  👋 Welcome to my profile!
 </h2
 
 <p>
   
-  * Hi there, I'm Lucas!
-  * Fullstack Software Developer at Banco Bmg | ACT Digital. 
-  * Passionate about games, programming, hardware, and tech in general. 
-  * Always learning something new.
+  * Hey, I'm Lucas! Welcome to my GitHub profile!
+  * I'm a passionate self-taught Fullstack Developer with a deep love for solving real problems with code.
+  * I love creating products. The satisfaction of making ideas come to life, from the concept to the product deployed, is what drives me everyday.
 </p>
 
 <h3>
-  💻 Programming languages and technologies:
+  💻 Technologies I use:
 </h3>
 
 <br />
 
-<p>
+<p align="center">
 
-  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasc-dev&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true&theme=tokyonight" />
-   
   <br />
   <code><img width="11%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="11%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
@@ -42,8 +39,12 @@
 <br />
 
 <h3 align="center">
-  Connect with me:
+  I'm always open to new opportunities, collaborations and conversations. 
 </h3>
+<h3 align="center">
+  You can reach me through:
+</h3>
+
 
 <p align="center">
   <a href="https://discord.com/users/313151537298014209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg"  alt="Lucas Discord" height="30" width="30" color="#fff" /></a> &nbsp;&nbsp;
